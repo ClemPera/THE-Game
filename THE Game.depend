@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1521536689 source:c:\users\clément pera\google drive\pc --_ drive\c++\the game\main.cpp
+	<iostream>
+	"Personnage.h"
+
+1521547830 c:\users\clément pera\google drive\pc --_ drive\c++\the game\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1521547569 source:c:\users\clément pera\google drive\pc --_ drive\c++\the game\arme.cpp
+	"Arme.h"
+
+1521548413 c:\users\clément pera\google drive\pc --_ drive\c++\the game\arme.h
+	<iostream>
+	<string>
+
